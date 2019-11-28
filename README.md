@@ -2,30 +2,22 @@
 
 #### Starter Template for Epicodus; November 14, 2019
 
-#### By Courtney Schild
-
 ## Description
 
-_Write a description of the project here._
+_This application is disigned to retrieve the weather in the current location of the user. It calls a weather API and returns the data to the user._
 
 ## Specs
 
-<!-- This is another way to write out specs:
- * Spec:
-  * Input:
-  * Output:  -->
 
 | Behavior (Our program should handle:) | Example Input (When it receives:) | Example Output (It should return:) |
 | ----------- | ----------- | ----------- |
-|  |  |
-|  |  |
-|  |  |
+| User enters their location | Portland, Oregon | 'The weather in portland is ______' |
 
 ## Setup/Installation Requirements
 
 This webpage may be viewed on any web browser and edited by following the instructions below to clone or download the repository to your computer.
 
-**Click [here](https://courtschmort.github.io/starter-template/) to open the GitHub Pages website.**
+**Click [here](https://github.com/ELee-Wuollet13/Weather-api2/) to open the GitHub Pages website.**
 
 ###### From GitHub
 1. Click the **Clone or download** dropdown button.
@@ -47,19 +39,7 @@ There are no known bugs at this time.
 
 ## Support and Contact Details
 
-If you have any questions, please email me at courtneyschild@gmail.com.
-
-Find me on LinkedIn and GitHub:
-
-* [Connect with me](https://www.linkedin.com/in/courtneyschild/) on LinkedIn
-* [Follow me](https://github.com/courtschmort) or [watch this repository](https://github.com/courtschmort/starter-template.git) on GitHub
-
-## Product Roadmap
-
-In the future, I plan to include the following key features:
-* Key feature 1
-* Key feature 2
-* Key feature 3
+If you have any questions, please email me at everett.leewuollet@gmail.com.
 
 ## Technologies Used
 
@@ -74,4 +54,4 @@ In the future, I plan to include the following key features:
 
 This website is licensed under the MIT license.
 
-Copyright &copy; 2019 **Courtney Schild**
+Copyright &copy; 2019 **Everett Lee-Wuollet**
