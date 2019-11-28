@@ -1,6 +1,6 @@
-# Starter Template
+# Weather API
 
-#### Starter Template for Epicodus; November 14, 2019
+#### A weather API app from Epicodus week seven
 
 ## Description
 
