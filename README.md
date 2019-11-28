@@ -25,13 +25,13 @@ This webpage may be viewed on any web browser and edited by following the instru
 
 ###### From the command-line interface (CLI)
 1. To change the directory, type `cd Desktop` after the command prompt.
-2. To clone the repository to your Desktop, type `git clone https://github.com/courtschmort/starter-template.git` after the command prompt. (This web URL can be located within the **Clone or download** dropdown button in GitHub.)
+2. To clone the repository to your Desktop, type `git clone t` after the command prompt. (This web URL can be located within the **Clone or download** dropdown button in GitHub.)
 
 ###### Also from the CLI
 3. Type `npm install` to install the dependencies in the local node_modules folder.
 4. Type `npm run build` (or `npm build`) to run custom scripts specified in package.json, or `npm run start` to do the same and use live reloading on a web development server at http://localhost:8080/.
 
-For more information about cloning repositories available on GitHub, click [here](https://help.github.com/en/articles/which-remote-url-should-i-use).
+For more information about cloning repositories available on GitHub, click [here](https://github.com/ELee-Wuollet13/Weather-api2/).
 
 ## Known Bugs
 
